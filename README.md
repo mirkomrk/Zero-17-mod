@@ -33,8 +33,17 @@ Key Improvements:
 ✅Conclusion
    These improvements make the Voron 0 motion system more robust, precise, and reliable, while also simplifying assembly and maintenance.
 
+Original support nema 14 xy
 
+![voron 0 orixy](https://github.com/user-attachments/assets/cc241697-2446-4f3c-b8b5-2ee476543785)
 
+![voron 0 orixy dettaglio viti cuscinetti](https://github.com/user-attachments/assets/a7b37b5f-e877-48ea-a53e-1235745c6cae)
+
+SLS mod nema 17 and steel rods
+
+![Screenshot 2025-03-10 150459](https://github.com/user-attachments/assets/a1884de2-3dbc-492d-921d-485bbb48de6c)
+
+![Screenshot 2025-03-10 150618](https://github.com/user-attachments/assets/ca6c5308-ba42-45bd-8d84-5c52d051aa20)
 
 
 https://github.com/user-attachments/assets/360665d2-b2f5-4ddd-bdcb-74e7a6606f68
