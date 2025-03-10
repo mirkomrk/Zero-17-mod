@@ -53,3 +53,26 @@ https://github.com/user-attachments/assets/360665d2-b2f5-4ddd-bdcb-74e7a6606f68
 ![photo_2025-03-10_14-21-18](https://github.com/user-attachments/assets/348f0119-7fae-4e0d-914d-9af77f5ddbdd)
 ![photo_2025-03-10_14-21-13](https://github.com/user-attachments/assets/c06b5191-21f7-45fc-b092-9fb874ac2ad8)
 ![photo_2025-03-10_14-21-23](https://github.com/user-attachments/assets/0af0a4a3-5ab7-428a-a84d-a61c6a07a485)
+
+THE SUPPORTS HAVE BEEN MODIFIED TO INSERT NUTS AND PUT THE THROUGH SCREWS
+
+![SUPPORTO-ASSE-X-MOD.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/SUPPORTO%20ASSE%20X%20MOD.png)
+
+
+
+The Zero-17-mod is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
+[PayPal](https://www.paypal.me/adelaidecat?locale.x=it_IT)
+
+# License 
+### [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
