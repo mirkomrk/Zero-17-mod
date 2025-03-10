@@ -56,7 +56,6 @@ https://github.com/user-attachments/assets/360665d2-b2f5-4ddd-bdcb-74e7a6606f68
 
 THE SUPPORTS HAVE BEEN MODIFIED TO INSERT NUTS AND PUT THE THROUGH SCREWS
 
-![SUPPORTO-ASSE-X-MOD.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/SUPPORTO%20ASSE%20X%20MOD.png)
 
 
 
