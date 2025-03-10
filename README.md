@@ -33,6 +33,8 @@ Key Improvements:
 ✅Conclusion
    These improvements make the Voron 0 motion system more robust, precise, and reliable, while also simplifying assembly and maintenance.
 
+![tabella](https://github.com/user-attachments/assets/836e252e-ad87-4ce2-a3df-1faf1fcf4f3c)
+
 Original support nema 14 xy
 
 ![voron 0 orixy](https://github.com/user-attachments/assets/cc241697-2446-4f3c-b8b5-2ee476543785)
